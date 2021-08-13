@@ -1,0 +1,15 @@
+{
+  "name": "my-controls",
+  "version": "0.0.1",
+  "description": "Repro for rush issue",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^17.0.11",
+    "@types/react-dom": "^17.0.8"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.4"
+  }
+}
